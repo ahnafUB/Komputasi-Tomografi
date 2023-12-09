@@ -26,7 +26,7 @@ Karena kami menggunakan ***auto-py-to-exe*** untuk mengkompilasi (_compilation_)
 - File `CTGen1Simulator.exe` menghilang setelah di ekstrak.
 - File `CTGen1Simulator.exe` menghilang ketika ditekan atau dianggap sebagai virus.
 
-Ketika situasi-situasi tersebut terjadi, salah satu solusi yang dapat dilakukan adalah menonaktifkan antivirus saat mengekstrak atau menjalankan file. Itu merupakan konsekuensi dari menggunakan ***auto_py_to_exe*** sebagai _compiler_. [Penjelasan lebih lanjut](https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help#my-antivirus-detected-the-exe-as-a-virus).
+Ketika situasi-situasi tersebut terjadi, salah satu solusi yang dapat dilakukan adalah menonaktifkan antivirus saat mengekstrak atau menjalankan file. Itu merupakan konsekuensi dari menggunakan ***auto-py-to-exe*** sebagai _compiler_. [Penjelasan lebih lanjut](https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help#my-antivirus-detected-the-exe-as-a-virus).
 > Jika Anda yakin CTGen1Simulator adalah virus, Anda dipersilakan untuk membaca source code dan mengkompilasinya sendiri. Kode sumber untuk proyek ini ada di GitHub.
 
 Source Code : [GitHub](https://github.com/ahnafUB/Komputasi-Tomografi/tree/main/CTGen1Simulator).

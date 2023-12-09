@@ -20,7 +20,7 @@ CtGen1Simulator membagi operasional CT Scan menjadi dua tahap utama. Tahap perta
 3. Klik dua kali pada file instalasi (CTGen1Simulator.exe) untuk memulai simulator.
 
 ## ⚠️Issues
-Karena kami menggunakan ***auto_py_to_exe*** untuk mengkompilasi (_compilation_) skrip `.py` ke `.exe` maka file hasil kompilasi menjadi rawan terdeteksi sebagai virus. Jika terjadi masalah dalam menjalankan program seperti:
+Karena kami menggunakan ***auto-py-to-exe*** untuk mengkompilasi (_compilation_) skrip `.py` ke `.exe` maka file hasil kompilasi menjadi rawan terdeteksi sebagai virus. Jika terjadi masalah dalam menjalankan program seperti:
 
 - File `CTGen1Simulator.exe` menghilang ketika di download.
 - File `CTGen1Simulator.exe` menghilang setelah di ekstrak.

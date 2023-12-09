@@ -10,9 +10,10 @@ from skimage.data import shepp_logan_phantom
 from skimage.transform import radon, rotate, iradon
 from tkinter import *
 from tkinter import Tk, Canvas, Button, PhotoImage, ttk, messagebox
-
+#loading screen splash
+"""
 if getattr(sys, "frozen", False):
-    import pyi_splash
+    import pyi_splash"""
 
 
 OUTPUT_PATH = Path(__file__).parent
@@ -1371,8 +1372,10 @@ def main():
     create_play_page(pages, play_image)
 
     show_page("home", pages)
+    #loading screen splash close
+    '''
     if getattr(sys, "frozen", False):
-        pyi_splash.close()
+        pyi_splash.close()'''
 
     window.mainloop()
 

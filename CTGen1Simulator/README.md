@@ -14,6 +14,7 @@ Untuk menjalankan _source code_ berikut, berikut adalah langkah-langkahnya:
 </p>
 
 3. Ekstrak file yang telah diunduh.
-4. Jalankan file `.py` pada text editor.
+4. Jalankan file `CTGen1Simulator.py` pada text editor.
 
-   
+> Perlu diingat bahwa modul tkinter memerlukan antarmuka GUI, sehingga file `CTGen1Simulator.py` tidak bisa dijalankan pada text editor yang beroperasi di lingkungan cloud server berbasis web seperti ***Google Colab***.
+
